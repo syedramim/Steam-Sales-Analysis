@@ -38,8 +38,8 @@ Data is collected from the following sources:
 - Positive reviews have the largest positive impact on sales.
 - Recommendations and peak users are also significant predictors.
 - Surprisingly, the price does not have a strong influence on sales.
-![Alt Text](files/avp_plot)
-
+<img src="files/avp_plot.png" alt="AVP Plot" width="600"/>
+<img src="files/importances.png" alt="AVP Plot" width="600"/>
 
 ## Installation
 To run this project locally, follow these steps:

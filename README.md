@@ -36,7 +36,7 @@ Data is collected from the following sources:
 
 ## Results
 - Positive reviews have the largest positive impact on sales.
-- Recommendations and peak users are also significant predictors.
+- Recommendations is also significant predictors.
 - Surprisingly, the price does not have a strong influence on sales.
 <img src="files/avp_plot.png" alt="AVP Plot" width="600"/>
 <img src="files/importances.png" alt="AVP Plot" width="600"/>
